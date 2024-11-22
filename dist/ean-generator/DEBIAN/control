@@ -1,6 +1,0 @@
-Package: ean-generator
-Version: 1.0
-Architecture: all
-Maintainer: Antônio M. Quadros Filho <antoniomquadrosfiho@gmail.com>
-Description: Ferramenta simples para gerar códigos EAN-13
-
